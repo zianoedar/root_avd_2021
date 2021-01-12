@@ -3,7 +3,7 @@
 
 A quick guide on how to root Android Studio's Android AVDs (and required files!)
 
-Required files can be found in this repository: <https://github.com/0xFireball/root_avd>
+Required files can be found in this repository: <https://github.com/zianoedar/root_avd_2021>
 
 You need the Android SDK and fresh new AVD. For this guide we will call it `RootAVD`.
 
